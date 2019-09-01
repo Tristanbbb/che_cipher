@@ -1,0 +1,5 @@
+The algorithm is functionning.
+Some next steps:
+- Safeguard against wrong inputs (key not being 5 digits for instance)
+- Graphical interface
+- See how to handle punctuation
